@@ -1,4 +1,4 @@
-# trecqa-rc
+# Trecqa-rc [TrecQA dataset for Reading Comprehension]
 Trec QA 13 dataset with answer spans from the paragraphs
 
 The original trec qa task has answer patterns which were used for automatic judgement of answers. 
