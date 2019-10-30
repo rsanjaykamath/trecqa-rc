@@ -7,3 +7,4 @@ The dataset released by the authors [What is the Jeopardy Model? A Quasi-Synchro
 
 In this repository using the pattern files provided by trec, we also release the answer spans. 
 
+Each line has a question and each question is repeated in this line as many times as the number of paragraphs it has which are either relevant or irrelevant.
